@@ -1,14 +1,14 @@
 .more-work {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
   }
 
   @media screen and (min-width: 850px) {
     body, main, .header-wrapper .featured {
-      width: 900px;
-      margin-left: auto;
-      margin-right: auto;
+        width: 900px;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .primary {
@@ -33,6 +33,7 @@
   @media screen and (max-width: 550px) {
     .primary {
         font-size: 16px;
+        line-height: 1.2em;
     }
     
     .primary h2 {
@@ -44,9 +45,14 @@
         margin-bottom: 0px;
     }
 
+    .more-work p {
+        font-size: 16px;
+        line-height: 1.2em;
+    }
+
     .first {
-      width: 100%;
-      padding-bottom: 10px;
+        width: 100%;
+        padding-bottom: 10px;
     }
 
     .second {
