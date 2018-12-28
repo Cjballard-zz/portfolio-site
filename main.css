@@ -1,0 +1,138 @@
+body, html, {
+    width: 100%;
+}
+
+body {
+    font-family: "Work Sans", "Helvetica", sans-serif;
+    font-size: 14px;
+    color: #000000;
+    background-color: #f9f9f9;
+}
+
+.header-wrapper {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header-logo {
+    float: left;
+    width: 50px;
+}
+
+.title {
+    text-align: right;
+    font-size: 2em;
+    padding-top: 6px;
+    margin-bottom: 5px;
+}
+
+.name {
+    text-align: right;
+    font-weight: 400;
+    font-size: 1.2em;
+    margin-top: 5px;
+}
+
+.divider hr {
+    height: 1px;
+    border: none;
+    color: #d2d2d2;
+    background-color: #d2d2d2;
+}
+
+.nav {
+    width: 100%;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    font-weight: 300;
+    font-size: 14px;
+  }
+
+li a {
+    padding: 10px;
+    text-decoration: none;
+    color: #7d7d7d;
+}
+
+li a:hover {
+    color: #000000;
+}
+
+.primary h2 {
+    font-size: 21px;
+    margin-bottom: 0px;
+}
+
+.primary p {
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.primary-img {
+    width: 100%;
+}
+
+.subheading h2 {
+    font-weight: 300;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding-top: 30px;
+}
+
+.more-img {
+    width: 100%;
+}
+
+.more-work h3 {
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+
+.more-work p {
+    margin-top: 5px;
+}
+
+.first {
+    width: 32%;
+}
+
+.second {
+    width: 32%;
+}
+
+.third {
+    width: 32%;
+}
+
+.about-section {
+    width: 100%;
+    padding-top: 20px;
+}
+
+.about-text p {
+    font-size: 16px;
+    line-height: 1.2em;
+}
+
+.headshot {
+    float: left;
+    width: 25%;
+    padding-right: 20px;
+}
+
+.about-text {
+    width: 70%;
+}
+
+footer {
+    padding-top: 80px;
+}
+
+.footer-content {
+    font-size: 14px;
+    color: #9b9b9b;
+}
