@@ -8,4 +8,4 @@ Showcasing some recent standout projects.
 A little background in case you're looking for some freelance help.
 
 ## Contact
-If you are, let's get in contact! _(Note, I am not the Indianapolis Colts General Manager Chris Ballard, nor the Sports Illustrated sports writer. Though I do love sports and journalism!)_# portfolio-site
+If you are, let's get in contact! _(Note, I am not the Indianapolis Colts General Manager Chris Ballard, nor the Sports Illustrated sports writer. Though I do love sports and journalism!)_
